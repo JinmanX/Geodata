@@ -1,6 +1,6 @@
-Source,Target,Type,weight
-Denmark,use,Undirected,0.7994
-Denmark,pfatigue,Undirected,0.1973
-use,Alzheimer,Undirected,0.2454
-use,Hip fracture,Undirected,0.3884
-use,Cataracts,Undirected,0.5651
+Source,Target,Type,weight,color
+Denmark,use,Undirected,0.7994,blue
+Denmark,pfatigue,Undirected,0.1973,blue
+use,Alzheimer,Undirected,0.2454,blue
+use,Hip fracture,Undirected,0.3884,blue
+use,Cataracts,Undirected,0.5651,blue
