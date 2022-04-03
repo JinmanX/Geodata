@@ -1,9 +1,6 @@
 Source,Target,Type,weight
 Denmark,use,Undirected,0.7994
-Denmark,skills,Undirected,2.7112
-Denmark,mfatigue,Undirected,0.3487
 Denmark,pfatigue,Undirected,0.1973
-Denmark,energy,Undirected,3.2187
 use,Alzheimer,Undirected,0.2454
 use,Hip fracture,Undirected,0.3884
 use,Cataracts,Undirected,0.5651
